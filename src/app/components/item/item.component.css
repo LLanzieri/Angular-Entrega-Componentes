@@ -1,0 +1,36 @@
+.item-container{
+    /* border: 1px solid aquamarine; */
+}
+
+.item img{
+    width: 100%;
+}
+
+.item p{
+    text-align: center;
+}
+
+.btn-container{
+    /* border: 2px solid black; */
+    margin: auto;
+    width: 50%;
+}
+
+.btn{
+    background: transparent;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    border-radius: 6px;
+    border: 2px solid white;
+    background-color: rgb(62, 63, 63);
+    color: white;
+    font-weight: bold;
+}
+
+.btn:hover {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
